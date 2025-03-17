@@ -5,7 +5,7 @@ CP Student | Chulalongkorn University
 -------------------------------------
 
 * 🌍  I'm based in Bangkok, Thailand
-* 🧠  I'm learning web development 
+* 🧠  I'm learning web development and ML/AI
 
 ### Programming Languages
 
